@@ -27,12 +27,12 @@
   </build>
    <distributionManagement>
         <repository>
-            <id>Sample-REL</id>
+            <id>deployment</id>
             <name>Sample-REL</name>
             <url>http://op.stonetilesemporium.com:8081/repository/Sample-REL/</url>
         </repository>
         <snapshotRepository>
-            <id>sample-snap</id>
+            <id>deployment</id>
             <name>sample-snap</name>
             <url>http://op.stonetilesemporium.com:8081/repository/sample-snap/</url>
         </snapshotRepository>
